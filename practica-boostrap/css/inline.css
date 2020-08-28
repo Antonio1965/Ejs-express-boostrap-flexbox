@@ -1,0 +1,28 @@
+.ppal {
+    max-width: 1200px;
+    height: 900px;
+    background-color: thistle;
+}
+
+
+.content {
+
+    width: 250px;
+    height: 150px;
+    background-color: tomato;    
+   
+}
+.content1 {
+   
+    width: 250px;
+    height: 150px;
+   background-color: violet;
+   position: relative; 
+   float: right;
+}
+.content2 {
+    
+    width: 250px;
+    height: 150px;
+   background-color: springgreen;  
+}

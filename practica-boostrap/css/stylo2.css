@@ -1,0 +1,29 @@
+#parrafo1 {
+    background-color: red;
+}
+#parrafo2 {
+    background-color: rosybrown;
+}
+#parrafo3 {
+    background-color: seagreen;
+}
+#parrafo4 {
+    background-color: steelblue;
+}
+#parrafo5 {
+    background-color: tomato;
+}
+#parrafo6 {
+    background-color: violet;
+}
+[id^="parrafo"]{
+    padding: 15px;
+    color:whitesmoke;
+    border: 1px solid black;
+}
+p {
+    font-size: 20px;
+}
+.btn-info {
+    background-color: chartreuse;
+}
